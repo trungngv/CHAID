@@ -335,7 +335,7 @@ python -m CHAID tests/data/titanic.csv survived sex embarked --max-depth 4 --min
 
 The output will look like:
 
-![](https://github.com/Rambatino/CHAID/blob/master/docs/2019-04-01 2011:45:43.gv.png?raw=true "CHAID Tree")
+Refer to the original repo for the picture.
 
 Testing
 -------
